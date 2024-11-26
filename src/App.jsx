@@ -1,7 +1,7 @@
 
 import React from 'react';
 import Contact from './page/Contact';
-import Home from './page/Home';
+import Home from './page/Homepage';
 import SignIn from './page/SignIn';
 import SignUp from './page/SignUp';
 
