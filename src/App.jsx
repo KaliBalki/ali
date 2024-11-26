@@ -1,6 +1,5 @@
 
 import React from 'react';
-import './App.css';
 import Contact from './page/Contact';
 import Home from './page/Home';
 import SignIn from './page/SignIn';
