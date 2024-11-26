@@ -2,8 +2,8 @@
 import React from 'react';
 import Contact from './page/Contact';
 import Home from './page/Homepage';
-import SignIn from './page/SignIn';
-import SignUp from './page/SignUp';
+import SignIn from './page/Signin';
+import SignUp from './page/Signup';
 
 function App() {
   return (
