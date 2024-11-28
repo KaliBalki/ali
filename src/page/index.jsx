@@ -6,12 +6,12 @@ export default function Main() {
     <div className='main-container w-[390px] h-[14407px] bg-[#fff] relative overflow-hidden mx-auto my-0'>
       <div className='w-[390px] h-[65px] bg-[#fbfbfb] border-solid border-t border-t-[#000] relative shadow-[0_4px_4px_0_rgba(0,0,0,0.25)] z-[2] mt-0 mr-0 mb-0 ml-0'>
         <div className='flex w-[378px] justify-between items-center flex-nowrap relative z-[3] mt-px mr-0 mb-0 ml-0'>
-          <div className='w-[65px] h-[62px] shrink-0 bg-[url(../assets/images/ab41cfde-eee4-4d6a-8714-dabc25cb0435.png)] bg-cover bg-no-repeat relative z-[4]' />
+          <div className='w-[65px] h-[62px] shrink-0 bg-[url(../assets/images/b92fac14-ded7-418f-baf4-2b3d4a882b3b.png)] bg-cover bg-no-repeat relative z-[4]' />
           <div className='w-[99px] h-[62px] shrink-0 bg-[url(../assets/images/7e0a874865815f101236a692a38641ea85d25381.png)] bg-cover bg-no-repeat relative z-[5]' />
           <div className='flex w-[72px] h-[39px] pt-[7px] pr-[24px] pb-[7px] pl-[24px] gap-[10px] items-center shrink-0 flex-nowrap relative z-[6]'>
             <div className='flex w-[72px] h-[39px] pt-[8px] pr-[26px] pb-[8px] pl-[26px] gap-[10px] justify-center items-center shrink-0 flex-nowrap rounded-[5px] absolute top-0 left-0 z-[7]' />
             <div className='w-[24px] h-[24px] shrink-0 relative z-[8]'>
-              <div className='w-[16px] h-[16px] bg-[url(../assets/images/b0511dc4-6292-40b6-84a7-58153a48e9cb.png)] bg-[length:100%_100%] bg-no-repeat relative z-[9] mt-[4px] mr-0 mb-0 ml-[4px]' />
+              <div className='w-[16px] h-[16px] bg-[url(../assets/images/ada33d4f-a5c2-48d8-8df5-d451e4813083.png)] bg-[length:100%_100%] bg-no-repeat relative z-[9] mt-[4px] mr-0 mb-0 ml-[4px]' />
             </div>
           </div>
         </div>
@@ -196,7 +196,7 @@ export default function Main() {
           de website. De bestellingen worden in de week van 12 november
           geproduceerd en eind november verzonden.
         </span>
-        <div className='w-[348.505px] h-[280px] bg-[url(../assets/images/67a962b8-559c-4c2c-a3c2-412ee31ff38d.png)] bg-cover bg-no-repeat relative z-[26] mt-[64px] mr-0 mb-0 ml-[21px]' />
+        <div className='w-[348.505px] h-[280px] bg-[url(../assets/images/84c182a6-0131-41fd-ad58-be58f9ee7788.png)] bg-cover bg-no-repeat relative z-[26] mt-[64px] mr-0 mb-0 ml-[21px]' />
         <span className="flex w-[369px] h-[244.399px] justify-center items-center font-['Inter'] text-[36px] font-bold leading-[65px] text-[#362b1c] absolute top-[722px] left-[12px] text-center z-[14]">
           Project KAAIKUNST: Pop Art in de Praktijk
         </span>
@@ -208,8 +208,8 @@ export default function Main() {
           Pop Art. Ze hebben iconen zoals Andy Warhol, Roy Lichtenstein, Keith
           Haring en Tom Wesselman bestudeerd en hun stijl herwerkt in 2D of 3D.
         </span>
-        <div className='w-[339.072px] h-[260.126px] bg-[url(../assets/images/71c240d4-1af3-4caf-94da-9a9d050e2a43.png)] bg-cover bg-no-repeat absolute top-[1265px] left-[27px] z-[16]' />
-        <div className='flex w-[339.11px] h-[272px] pt-[79px] pr-[16px] pb-[79px] pl-[16px] flex-col justify-between items-start flex-nowrap bg-[url(../assets/images/4e442c21-b5e1-45a1-a105-0e68ad7c9942.png)] bg-cover bg-no-repeat absolute top-[2140px] left-[27px] z-[21]' />
+        <div className='w-[339.072px] h-[260.126px] bg-[url(../assets/images/5d505294-219a-4bc6-82bc-f90e105f5529.png)] bg-cover bg-no-repeat absolute top-[1265px] left-[27px] z-[16]' />
+        <div className='flex w-[339.11px] h-[272px] pt-[79px] pr-[16px] pb-[79px] pl-[16px] flex-col justify-between items-start flex-nowrap bg-[url(../assets/images/fb261ef7-e9bf-4fcb-b225-6d627b305ed3.png)] bg-cover bg-no-repeat absolute top-[2140px] left-[27px] z-[21]' />
         <div className='w-[333.009px] h-[221.159px] bg-[url(../assets/images/e090411d9b9d68f2d63a3d407dda36d8a9367a25.png)] bg-cover bg-no-repeat absolute top-[2165.421px] left-[33.102px] z-[22]' />
       </div>
       <div className='w-[408px] h-[6978px] bg-[url(../assets/images/c093525711a0835764c30a697d62f7690ec2a1ad.png)] bg-cover bg-no-repeat absolute top-[3222px] left-[-17px] z-[27]' />
@@ -253,10 +253,10 @@ export default function Main() {
       </div>
       <div className='flex w-[393px] h-[74px] justify-between items-center flex-nowrap absolute top-[5158px] left-[-9px] z-[109]'>
         <div className='w-[46px] h-[46px] shrink-0 relative z-[110]'>
-          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/a0215f63-1080-4e8b-bd4b-53b226df5f96.png)] bg-[length:100%_100%] bg-no-repeat relative z-[111] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
+          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/4c5178fa-170f-4013-9b7e-b894199a7a84.png)] bg-[length:100%_100%] bg-no-repeat relative z-[111] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
         </div>
         <div className='w-[46px] h-[46px] shrink-0 relative z-[112]'>
-          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/00b834db-2419-4f7f-8bc9-96b5d74a97e5.png)] bg-[length:100%_100%] bg-no-repeat relative z-[113] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
+          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/d549e31d-01f2-4451-a8e9-1d31a7ad025f.png)] bg-[length:100%_100%] bg-no-repeat relative z-[113] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
         </div>
       </div>
       <div className='flex w-[298px] h-[621px] pt-[40px] pr-[40px] pb-[40px] pl-[40px] flex-col gap-[32px] items-start flex-nowrap bg-[#fff] rounded-[8px] border-solid border border-[#e0e0e0] absolute top-1/2 left-1/2 translate-x-[-52.68%] translate-y-[-116.18%] shadow-[0_0_8px_0_rgba(0,0,0,0.08)] z-[57]'>
@@ -291,10 +291,10 @@ export default function Main() {
       </div>
       <div className='flex w-[393px] h-[74px] justify-between items-center flex-nowrap absolute top-[6788px] left-[-9px] z-[114]'>
         <div className='w-[46px] h-[46px] shrink-0 relative z-[115]'>
-          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/696e2b20-1fba-4c12-aecc-8aa517a7d629.png)] bg-[length:100%_100%] bg-no-repeat relative z-[116] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
+          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/f3f1c783-d850-4691-862e-9e571cdf9256.png)] bg-[length:100%_100%] bg-no-repeat relative z-[116] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
         </div>
         <div className='w-[46px] h-[46px] shrink-0 relative z-[117]'>
-          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/50f0572b-71d3-4cb6-8270-dae4cbca8b33.png)] bg-[length:100%_100%] bg-no-repeat relative z-[118] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
+          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/154dbe03-3c50-49cb-abe5-0860ca858aa3.png)] bg-[length:100%_100%] bg-no-repeat relative z-[118] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
         </div>
       </div>
       <div className='flex w-[298px] h-[621px] pt-[40px] pr-[40px] pb-[40px] pl-[40px] flex-col gap-[32px] items-start flex-nowrap bg-[#fff] rounded-[8px] border-solid border border-[#e0e0e0] absolute top-1/2 left-1/2 translate-x-[-52.68%] translate-y-[145.17%] shadow-[0_0_8px_0_rgba(0,0,0,0.08)] z-[96]'>
@@ -329,10 +329,10 @@ export default function Main() {
       </div>
       <div className='flex w-[393px] h-[74px] justify-between items-center flex-nowrap absolute top-[8411px] left-[-9px] z-[120]'>
         <div className='w-[46px] h-[46px] shrink-0 relative z-[121]'>
-          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/299c49c7-6f2a-4e64-a070-e2a74724efbb.png)] bg-[length:100%_100%] bg-no-repeat relative z-[122] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
+          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/60eb2f46-eb1e-4121-9c9e-ecdf74783e61.png)] bg-[length:100%_100%] bg-no-repeat relative z-[122] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
         </div>
         <div className='w-[46px] h-[46px] shrink-0 relative z-[123]'>
-          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/57926fbf-6fbf-4184-b230-4578a3b402fa.png)] bg-[length:100%_100%] bg-no-repeat relative z-[124] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
+          <div className='w-[30.667px] h-[30.667px] bg-[url(../assets/images/327bd4ed-cd87-4657-875c-ca64e8734e44.png)] bg-[length:100%_100%] bg-no-repeat relative z-[124] mt-[7.667px] mr-0 mb-0 ml-[7.666px]' />
         </div>
       </div>
       <div className='w-[400px] h-[2722px] bg-[url(../assets/images/c093525711a0835764c30a697d62f7690ec2a1ad.png)] bg-cover bg-no-repeat absolute top-[9443px] left-[-1px] z-[125]' />
@@ -375,10 +375,10 @@ export default function Main() {
           </span>
         </div>
       </div>
-      <div className='w-[177.692px] h-[222.522px] bg-[url(../assets/images/4db940c8-0151-4990-b083-b629d6a75d69.png)] bg-cover bg-no-repeat absolute top-[13756px] left-[194px] z-[177]' />
-      <div className='w-[134.373px] h-[99.947px] bg-[url(../assets/images/bfa0cdf9-a2ed-480e-a10b-52ca6244b12b.png)] bg-cover bg-no-repeat absolute top-[13789px] left-[24px] z-[176]' />
-      <div className='w-[127.183px] h-[128.518px] bg-[url(../assets/images/a28815a7-8141-49d9-9cb8-dc3d08b3d98e.png)] bg-cover bg-no-repeat absolute top-[14278px] left-[13px] z-[178]' />
-      <div className='w-[99.634px] h-[93.129px] bg-[url(../assets/images/fa4c72bd-75da-40f6-9c56-6baea800262d.png)] bg-cover bg-no-repeat absolute top-[14278px] left-[242.999px] z-[179]' />
+      <div className='w-[177.692px] h-[222.522px] bg-[url(../assets/images/11ef00f5-285b-4232-bf8b-624adc69d5df.png)] bg-cover bg-no-repeat absolute top-[13756px] left-[194px] z-[177]' />
+      <div className='w-[134.373px] h-[99.947px] bg-[url(../assets/images/a31c5f5c-8601-4237-aea9-1aa64f455a5f.png)] bg-cover bg-no-repeat absolute top-[13789px] left-[24px] z-[176]' />
+      <div className='w-[127.183px] h-[128.518px] bg-[url(../assets/images/de5490c6-1226-49ec-b0c0-1e5b81b13d87.png)] bg-cover bg-no-repeat absolute top-[14278px] left-[13px] z-[178]' />
+      <div className='w-[99.634px] h-[93.129px] bg-[url(../assets/images/fa82d787-a0a1-4a37-a955-9a8f78c45077.png)] bg-cover bg-no-repeat absolute top-[14278px] left-[242.999px] z-[179]' />
     </div>
   );
 }

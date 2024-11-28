@@ -1,35 +1,10 @@
-
 import React from 'react';
-import Contact from './page/Contact';
-import Home from './page/Homepage';
-import SignIn from './page/Signin';
-import SignUp from './page/Signup';
+import Page from './page';
 
-function App() {
+export default function App() {
   return (
-    <div className="app">
-      <header className="header bg-gray-800 text-white p-4">
-        <h1 className="text-2xl">React One-Pager</h1>
-      </header>
-      <main className="main-content">
-        <section id="home">
-          <Home />
-        </section>
-        <section id="contact">
-          <Contact />
-        </section>
-        <section id="signin">
-          <SignIn />
-        </section>
-        <section id="signup">
-          <SignUp />
-        </section>
-      </main>
-      <footer className="footer bg-gray-800 text-white p-4">
-        <p>React One-Pager Footer</p>
-      </footer>
+    <div>
+      <Page />
     </div>
   );
 }
-
-export default App;
